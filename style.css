@@ -697,6 +697,12 @@ a {
     
 }
 
+.w31s-icons{
+    display: flex;
+    margin-top: 50px;
+    font-size: 23px;
+}
+
 .copy-g{
     margin-left: 820px;
     position: relative;
