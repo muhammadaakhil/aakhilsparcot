@@ -699,6 +699,7 @@ a {
 
 .w31s-icons{
     display: flex;
+    flex-direction: row;
     margin-top: 50px;
     font-size: 23px;
 }
