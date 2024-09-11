@@ -126,6 +126,10 @@ nav .wrapper{
     visibility: visible;
 }
 
+.megaboxmenu{
+    margin-top: 100px;
+}
+
 .mega-box {
     position: absolute;
     top: 51px;
